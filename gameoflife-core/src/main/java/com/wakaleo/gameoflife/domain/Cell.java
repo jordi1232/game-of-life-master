@@ -30,5 +30,5 @@ public enum Cell {
     }
     
     //Test comment om te commiten
-    //En nu een test voor jenkinsafdSADSFDSFA
+    //En nu een test voor jenkinsafdSADSFDSFAsa
 }
