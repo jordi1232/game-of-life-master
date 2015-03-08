@@ -30,4 +30,5 @@ public enum Cell {
     }
     
     //Test comment om te commiten
+    //En nu een test voor jenkins
 }
