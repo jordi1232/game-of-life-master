@@ -14,7 +14,7 @@ public class WhenYouCreateACell {
         Cell cell = Cell.fromSymbol("*");
 //        assertThat(cell, is(LIVE_CELL));
         assertThat(cell, null);
-        //Should fail
+        //Should failsgsfd
     }
 
     @Test
